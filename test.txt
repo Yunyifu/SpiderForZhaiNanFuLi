@@ -1,0 +1,696 @@
+﻿﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+<meta name="keywords" content="宅男,宅男吧,下载症,宅男福利,宅男娱乐,福利吧,fuliba" />
+<meta name="description" content="宅男福利吧(www.fulimomo.net)坚持每天原创分享各种宅男福利屌丝资源,美女套图,图集,视频,是一个宅男屌丝集聚地,来分享福利吧." />
+<meta name="author" content="www.fulisoso.com">
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<title>宅男福利吧 - -专门分享宅男福利的网站_分享你的福利吧 - Page 2</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://fulimomo.net/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="宅男福利吧 RSS Feed" href="http://fulimomo.net" />
+<!--[if lt IE 9]>
+    <script src="http://fulimomo.net/wp-content/themes/javin05/javin/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+<script type='text/javascript' src='http://fulimomo.net/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://fulimomo.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var norightclick_args = {"rightclick":"Y","draganddrop":"Y"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://fulimomo.net/wp-content/plugins/image-watermark/js/no-right-click.js?ver=1.5.1'></script>
+<link rel='https://api.w.org/' href='http://fulimomo.net/wp-json/' />
+<!--[if gte IE 7]><!-->
+<link id="color_opt" href="http://fulimomo.net/wp-content/themes/javin05/javin/style-blue.css" rel="stylesheet" type="text/css" media="all" />
+<link href="http://fulimomo.net/wp-content/themes/javin05/javin/style-choose.css" rel="stylesheet" type="text/css" media="all" />
+<link href="http://fulimomo.net/wp-content/themes/javin05/javin/style.css" rel="alternate" type="text/css" media="all" />
+<link href="http://fulimomo.net/wp-content/themes/javin05/javin/style-blue.css" rel="alternate" type="text/css" media="all" />
+<!--<![endif]-->
+<!--[if lt IE 7]>
+    <link href="http://fulimomo.net/wp-content/themes/javin05/javin/ie.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+</head>
+<body>
+<!--[if lt IE 7]>
+<div id="tips-ie">
+<p>欢迎来到<strong><a title="宅男福利吧" href="http://fulimomo.net/">宅男福利吧</a></strong></p>
+<p>很抱歉，您正在使用的是一个古代的浏览器浏览网页，本站无法在IE6（包含IE6）以下版本的IE系列浏览器中正常访问。</p>
+<p>您所看到的内容为本站的裸奔状态（纯文本，无样式无脚本）为了获得更好的浏览体验，请升级到更高级的浏览器或下载其他现代浏览器。</p>
+</div>
+<![endif]-->
+<div class="left ption_f">
+<p class="left_line_y f_r"></p>
+</div>
+<div class="right ption_f">
+<p class="right_line_y f_l"></p>
+</div>
+<div class="header ption_r">
+<div class="progress ption_a">
+<p id="prog-p" class="ption_a">&nbsp;</p>
+<progress value="0" max="100" id="prog-bar" class="ption_a"></progress>
+</div>
+<div class="header_content mauto ption_r">
+<div class="title f_l">
+<h1><a class="t_shadow_3 fs14 f_w" href="http://fulimomo.net/" title="-专门分享宅男福利的网站_分享你的福利吧">-专门分享宅男福利的网站_分享你的福利吧</a></h1>
+<div class="sub_title pl10">
+<div class="mobile_nav_buttons"></div>
+<div class="clear"></div>
+<ul><div class="menu-top-container"><ul id="menu-top" class="menu">
+<li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="https://www.emoneyspace.com/fulisoso" target="_blank">防屏蔽</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12"><a href="/zhainanfuli/">福利</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="/chuchu/">出处</a></li>
+<li id="menu-item-30508" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30508"><a href="/wangluohongren/">红人</a></li>
+<li id="menu-item-30509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30509"><a href="/hanguojuqing/">韩国</a></li>
+<li id="menu-item-30509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30509"><a href="/ou-mei-ju-qing/">美剧</a></li>
+<li id="menu-item-29961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29961"><a href="http://t.cn/RNVSfMm" target="_blank">邀请码</a></li>
+<li id="menu-item-22332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22332"><a href="/wp-login.php?action=register">注册</a></li>
+<li id="menu-item-22333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22333"><a href="/wp-login.php/">登录</a></li>
+</ul></div></ul> </div>
+</div>
+<div class="connect ption_r f_r" id="connect">
+<ul>
+<li><a rel="external nofollow" id="connect_rss" title="RSS订阅本站点内容" target="_blank" href="http://fulimomo.net">Rss订阅</a></li>
+<li><a rel="external nofollow" id="connect_email" title="邮件订阅本站内容" target="_blank" href="">邮件订阅</a></li>
+<li><a id="connect_add" class="add_menu" href="javascript:void(0)">关注本站</a>
+<div class="clear"></div>
+<div class="add_menu_list" style="display: none; ">
+<p><span id="add_icon_xwei"></span><a rel="external nofollow" title="关注新浪微博" target="_blank" href="http://fulimomo.net">关注新浪微博</a></p>
+<p><span id="add_icon_twei"></span><a rel="external nofollow" title="关注腾讯微博" target="_blank" href="http://fulimomo.net">关注腾讯微博</a></p>
+</div>
+</li>
+<li>
+<a id="load_icon" href="javascript:void(0)">登录</a>
+<div class="clear"></div>
+<div id="custom-loginform-box" class="ption_a t_shadow">
+<div id="custom-loginform">
+<form name="loginform-custom" id="loginform-custom" action="http://fulimomo.net/wp-login.php" method="post">
+<p class="login-username">
+<label for="user_login">用户名</label>
+<input type="text" name="log" id="user_login" class="input" value="" size="20" />
+</p>
+<p class="login-password">
+<label for="user_pass">密码</label>
+<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" />
+</p>
+<p class="login-submit">
+<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="登录网站" />
+<input type="hidden" name="redirect_to" value="http://fulimomo.net" />
+</p>
+</form> <p class="loginform-custom-other text_c">
+<a href="http://fulimomo.net/wp-login.php?action=register" title="Register">注册</a> 或者
+<a href="http://fulimomo.net/wp-login.php?action=lostpassword">忘记密码？</a>
+</p>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="navigation f_l fs16 f_w t_shadow ption_r mt10">
+<div id="menu" class="f_l">
+<ul id="nav" class="menu"><li id="menu-item-45043" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45043"><a target="_blank" href="https://www.emoneyspace.com/fulisoso">发布页</a></li><li id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12"><a href="http://fulimomo.net/zhainanfuli">宅男福利</a></li><li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a href="http://fulimomo.net/chuchu">动态图出处</a></li><li id="menu-item-30508" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30508"><a href="http://fulimomo.net/wangluohongren">网络红人</a></li><li id="menu-item-54873" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-54873"><a href="http://fulimomo.net/hanguojuqing">美剧韩剧</a>
+<ul class="sub-menu">
+<li id="menu-item-61247" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-61247"><a href="http://fulimomo.net/hanguojuqing">韩国剧情</a></li> <li id="menu-item-61246" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-61246"><a href="http://fulimomo.net/ou-mei-ju-qing">欧美剧情</a></li></ul>
+</li><li id="menu-item-44015" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44015"><a target="_blank" href="http://t.cn/RNVSfMm">邀请码</a></li><li id="menu-item-22332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22332"><a href="http://fulimomo.net/wp-login.php?action=register">注册</a></li><li id="menu-item-22333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22333"><a href="http://fulimomo.net/wp-login.php">登录</a></li></ul> </div>
+<div class="search f_r pr20">
+<form method="get" id="searchform" action="http://fulimomo.net/">
+<input type="text" class="search_text f_l" name="s" id="search_text" value="输入搜索内容……" onfocus="if(this.value=='输入搜索内容……'){this.value='';}" onblur="if(this.value==''){this.value='输入搜索内容……';}" />
+<input type="submit" class="search_bon f_l" name="submit" id="search_bon" value="搜索" />
+</form> </div>
+</div>
+<div class="logo ption_a"><a href="http://fulimomo.net/" title="宅男福利吧">宅男福利吧</a></div>
+<div class="jian ption_a"></div>
+</div>
+</div>
+<div class="main ption_a">
+<div id="content" class="f_l t_shadow ption_r">
+<div class="left_top_bg ption_a"></div>
+<div id="announcement_box" class="ption_a">
+<div id="announcement">
+<ul style="margin-top: 0px;">
+<li><span class="mr10">2016-1-1 12:31</span><a href="http://fulimomo.net/bulletin/jiao-cheng-guan-yu-zen-me-xia-zai-zhai-nan-fu-li-ba-suo-you-zi-yuan-de-ji-dian-shuo-ming" title="教程:关于怎么下载宅男福利吧所有资源的几点说明！">1.首先点击登录或者注册，已经有帐号的朋友直接登录就可以了。
+如果还没…</a></li>
+</ul>
+</div>
+<div class="announcement_remove"><a title="关闭" href="javascript:void(0)" onclick="$('#announcement_box').slideUp('slow');"><span id="announcement_close">×</span></a></div>
+</div>
+<div class="ption_r content_top_ad_box"><div class="content_top_ad"><a href="http://fulimomo.net/24239.html" target="_blank"><img class="sl_lazyimg" src="http://fulimomo.net/wp-content/plugins/simple-lazyload/blank_250x250.gif" file="http://fulimomo.net/wp-content/uploads/2015/11/0993bbe3627ff0e9s.jpg"><noscript><img src="http://fulimomo.net/wp-content/uploads/2015/11/0993bbe3627ff0e9s.jpg"></noscript></a></div></div> <div id="slider-wrapper" class="index_post ption_r">
+<div id="slider" class="nivoSlider">
+<a href="http://fulimomo.net/59467.html" target="_blank"><img class="sl_lazyimg" src="http://fulimomo.net/wp-content/plugins/simple-lazyload/blank_250x250.gif" file="http://wx2.sinaimg.cn/mw690/005BQZasgy1fic5txsz9tj30gg09in5f.jpg" title="宅男独享步兵-一本道/1PONDO公司2017年1-7月1080P高清作品合集" alt="宅男独享步兵-一本道/1PONDO公司2017年1-7月1080P高清作品合集" /><noscript><img src="http://wx2.sinaimg.cn/mw690/005BQZasgy1fic5txsz9tj30gg09in5f.jpg" title="宅男独享步兵-一本道/1PONDO公司2017年1-7月1080P高清作品合集" alt="宅男独享步兵-一本道/1PONDO公司2017年1-7月1080P高清作品合集" /></noscript></a>
+<a href="http://fulimomo.net/59437.html" target="_blank"><img class="sl_lazyimg" src="http://fulimomo.net/wp-content/plugins/simple-lazyload/blank_250x250.gif" file="http://wx4.sinaimg.cn/mw690/005BQZasgy1fic5sw0badj30fe08w7bl.jpg" title="步兵大礼-CARIBBEANCOM/加勒比公司系列2017年1-7月1080P步兵作品合集" alt="步兵大礼-CARIBBEANCOM/加勒比公司系列2017年1-7月1080P步兵作品合集" /><noscript><img src="http://wx4.sinaimg.cn/mw690/005BQZasgy1fic5sw0badj30fe08w7bl.jpg" title="步兵大礼-CARIBBEANCOM/加勒比公司系列2017年1-7月1080P步兵作品合集" alt="步兵大礼-CARIBBEANCOM/加勒比公司系列2017年1-7月1080P步兵作品合集" /></noscript></a>
+</div>
+</div>
+<div class="post ption_r" id="post-63166">
+<div class="circle">
+<div class="type"><span>26<small>Sep</small></span></div>
+</div>
+<h1 class="post_title fs24 f_w"><a href="http://fulimomo.net/63166.html" title="200GANA系列-200GANA-FHDジョギングナンパ慢跑搭訕正妹系列12部合集" rel="bookmark">200GANA系列-200GANA-FHDジョギングナンパ慢跑搭訕正妹系列12部合集</a></h1>
+<div class="meta">
+<div class="thumb f_l">
+<a href="http://fulimomo.net/63166.html" title="200GANA系列-200GANA-FHDジョギングナンパ慢跑搭訕正妹系列12部合集">
+<img class="sl_lazyimg" width="126" height="126" src="http://fulimomo.net/wp-content/plugins/simple-lazyload/blank_1x1.gif" file="http://zhizhubt.com/wp-content/uploads/2017/09/200GANA-1311.png" title="200GANA系列-200GANA-FHDジョギングナンパ慢跑搭訕正妹系列12部合集" alt="200GANA系列-200GANA-FHDジョギングナンパ慢跑搭訕正妹系列12部合集" /><noscript><img width="126" height="126" src="http://zhizhubt.com/wp-content/uploads/2017/09/200GANA-1311.png" title="200GANA系列-200GANA-FHDジョギングナンパ慢跑搭訕正妹系列12部合集" alt="200GANA系列-200GANA-FHDジョギングナンパ慢跑搭訕正妹系列12部合集" /></noscript>
+</a>
+</div>
+<p class="meta_info">
+<span class="mr10">时间: 2017-9-26</span>
+<span class="mr10">分类: <a href="http://fulimomo.net/zhainanfuli" rel="category tag">宅男福利</a></span>
+<span class="mr10">
+作者: 福利小编 </span>
+</p>
+<p class="meta_tag"><span>TAGS:</span> <a href="http://fulimomo.net/tag/200gana" rel="tag">200GANA</a>, <a href="http://fulimomo.net/tag/200gana-xi-lie" rel="tag">200GANA系列</a> </p>
+<div class="meta_content">
+MGS是蚊香社旗下的一家专门公司，也算是为蚊香社挖掘人才的一个机构，大都是一些新人在这里混人气，混得好的，蚊香社就会与之签约，成为专属艺人。 200GANA是这个系列的番号，剧情就是街头风格， 和SIRO系列很相似，都是开房系列的，封杀，且很少有资源。 …… </div>
+<p><a class="more_link" href="http://fulimomo.net/63166.html"><em>Read more &gt;&gt;</em></a></p>
+<div class="clear"></div>
+</div>
+<div class="comments ption_a fs20"><em><a href="http://fulimomo.net/63166.html#comments" class="comments-link">1</a></em></div>
+</div>
+<div class="post ption_r" id="post-63156">
+<div class="circle">
+<div class="type"><span>26<small>Sep</small></span></div>
+</div>
+<h1 class="post_title fs24 f_w"><a href="http://fulimomo.net/63156.html" title="步兵-HEYDOUGA系列HEYDOUGA4080无修正1080P高清合集二" rel="bookmark">步兵-HEYDOUGA系列HEYDOUGA4080无修正1080P高清合集二</a></h1>
+<div class="meta">
+<div class="thumb f_l">
+<a href="http://fulimomo.net/63156.html" title="步兵-HEYDOUGA系列HEYDOUGA4080无修正1080P高清合集二">
+<img class="sl_lazyimg" width="126" height="126" src="http://fulimomo.net/wp-content/plugins/simple-lazyload/blank_1x1.gif" file="http://zhizhubt.com/wp-content/uploads/2017/09/Heydouga-4080-506.png" title="步兵-HEYDOUGA系列HEYDOUGA4080无修正1080P高清合集二" alt="步兵-HEYDOUGA系列HEYDOUGA4080无修正1080P高清合集二" /><noscript><img width="126" height="126" src="http://zhizhubt.com/wp-content/uploads/2017/09/Heydouga-4080-506.png" title="步兵-HEYDOUGA系列HEYDOUGA4080无修正1080P高清合集二" alt="步兵-HEYDOUGA系列HEYDOUGA4080无修正1080P高清合集二" /></noscript>
+</a>
+</div>
+<p class="meta_info">
+<span class="mr10">时间: 2017-9-26</span>
+<span class="mr10">分类: <a href="http://fulimomo.net/zhainanfuli" rel="category tag">宅男福利</a></span>
+<span class="mr10">
+作者: 福利小编 </span>
+</p>
+<p class="meta_tag"><span>TAGS:</span> <a href="http://fulimomo.net/tag/heydouga" rel="tag">heydouga</a>, <a href="http://fulimomo.net/tag/heydouga4080" rel="tag">heydouga4080</a> </p>
+<div class="meta_content">
+HEYDOUGA系列HEYDOUGA4080无修正1080P高清合集二。HEYDOUGA系列HEYDOUGA4080无修正1080P高清合集二。HEYDOUGA系列HEYDOUGA4080无修正1080P高清合集二。。HEYDOUGA系列HEYDOUGA4080无修正1080P高清合集二
+送上一些番号封面图，请欣赏！
+Heydouga-4080-506…… </div>
+<p><a class="more_link" href="http://fulimomo.net/63156.html"><em>Read more &gt;&gt;</em></a></p>
+<div class="clear"></div>
+</div>
+<div class="comments ption_a fs20"><em><a href="http://fulimomo.net/63156.html#comments" class="comments-link">1</a></em></div>
+</div>
+<div class="post ption_r" id="post-63153">
+<div class="circle">
+<div class="type"><span>26<small>Sep</small></span></div>
+</div>
+<h1 class="post_title fs24 f_w"><a href="http://fulimomo.net/63153.html" title="步兵-CARIBBEANCOM/加勒比公司系列2017年9.19-23日1080P步兵合集" rel="bookmark">步兵-CARIBBEANCOM/加勒比公司系列2017年9.19-23日1080P步兵合集</a></h1>
+<div class="meta">
+<div class="thumb f_l">
+<a href="http://fulimomo.net/63153.html" title="步兵-CARIBBEANCOM/加勒比公司系列2017年9.19-23日1080P步兵合集">
+<img class="sl_lazyimg" width="126" height="126" src="http://fulimomo.net/wp-content/plugins/simple-lazyload/blank_1x1.gif" file="http://zhizhubt.com/wp-content/uploads/2017/09/ERG43GD-1.png" title="步兵-CARIBBEANCOM/加勒比公司系列2017年9.19-23日1080P步兵合集" alt="步兵-CARIBBEANCOM/加勒比公司系列2017年9.19-23日1080P步兵合集" /><noscript><img width="126" height="126" src="http://zhizhubt.com/wp-content/uploads/2017/09/ERG43GD-1.png" title="步兵-CARIBBEANCOM/加勒比公司系列2017年9.19-23日1080P步兵合集" alt="步兵-CARIBBEANCOM/加勒比公司系列2017年9.19-23日1080P步兵合集" /></noscript>
+</a>
+</div>
+<p class="meta_info">
+<span class="mr10">时间: 2017-9-26</span>
+<span class="mr10">分类: <a href="http://fulimomo.net/zhainanfuli" rel="category tag">宅男福利</a></span>
+<span class="mr10">
+作者: 福利小编 </span>
+</p>
+<p class="meta_tag"><span>TAGS:</span> <a href="http://fulimomo.net/tag/bu-bing" rel="tag">步兵</a>, <a href="http://fulimomo.net/tag/caribbeancom" rel="tag">CARIBBEANCOM</a>, <a href="http://fulimomo.net/tag/jia-le-bi" rel="tag">加勒比</a>, <a href="http://fulimomo.net/tag/jia-le-bi-xi-lie" rel="tag">加勒比系列</a> </p>
+<div class="meta_content">
+步兵-CARIBBEANCOM/加勒比公司系列2017年9.19-23 1080P步兵合集。步兵-CARIBBEANCOM/加勒比公司系列2017年9.19-23 1080P步兵合集。步兵-CARIBBEANCOM/加勒比公司系列2017年9.19-23 1080P步兵合集
+送上一些番号封面图，请欣赏！
+092217-504-carib 立花瑠莉…… </div>
+<p><a class="more_link" href="http://fulimomo.net/63153.html"><em>Read more &gt;&gt;</em></a></p>
+<div class="clear"></div>
+</div>
+<div class="comments ption_a fs20"><em><a href="http://fulimomo.net/63153.html#comments" class="comments-link">1</a></em></div>
+</div>
+<div class="post ption_r" id="post-63139">
+<div class="circle">
+<div class="type"><span>26<small>Sep</small></span></div>
+</div>
+<h1 class="post_title fs24 f_w"><a href="http://fulimomo.net/63139.html" title="LZWM系列LZWM-001至LZWM-022作品1080P高清合集" rel="bookmark">LZWM系列LZWM-001至LZWM-022作品1080P高清合集</a></h1>
+<div class="meta">
+<div class="thumb f_l">
+<a href="http://fulimomo.net/63139.html" title="LZWM系列LZWM-001至LZWM-022作品1080P高清合集">
+<img class="sl_lazyimg" width="126" height="126" src="http://fulimomo.net/wp-content/plugins/simple-lazyload/blank_1x1.gif" file="http://zhizhubt.com/wp-content/uploads/2017/09/ertert34f-1.png" title="LZWM系列LZWM-001至LZWM-022作品1080P高清合集" alt="LZWM系列LZWM-001至LZWM-022作品1080P高清合集" /><noscript><img width="126" height="126" src="http://zhizhubt.com/wp-content/uploads/2017/09/ertert34f-1.png" title="LZWM系列LZWM-001至LZWM-022作品1080P高清合集" alt="LZWM系列LZWM-001至LZWM-022作品1080P高清合集" /></noscript>
+</a>
+</div>
+<p class="meta_info">
+<span class="mr10">时间: 2017-9-26</span>
+<span class="mr10">分类: <a href="http://fulimomo.net/zhainanfuli" rel="category tag">宅男福利</a></span>
+<span class="mr10">
+作者: 福利小编 </span>
+</p>
+<p class="meta_tag"><span>TAGS:</span> <a href="http://fulimomo.net/tag/lzwm" rel="tag">LZWM</a> </p>
+<div class="meta_content">
+LZWM系列LZWM-001至LZWM-022番号1080P高清作品合集。LZWM系列LZWM-001至LZWM-022番号1080P高清作品合集。LZWM系列LZWM-001至LZWM-022番号1080P高清作品合集。
+送上一些番号封面图，请欣赏！
+内容仅限注册会员查看…… </div>
+<p><a class="more_link" href="http://fulimomo.net/63139.html"><em>Read more &gt;&gt;</em></a></p>
+<div class="clear"></div>
+</div>
+<div class="comments ption_a fs20"><em><a href="http://fulimomo.net/63139.html#comments" class="comments-link">5</a></em></div>
+</div>
+<div class="post ption_r" id="post-63117">
+<div class="circle">
+<div class="type"><span>25<small>Sep</small></span></div>
+</div>
+<h1 class="post_title fs24 f_w"><a href="http://fulimomo.net/63117.html" title="HUNTER发行HUNTA系列HUNTA-337至HUNTA-352作品合集" rel="bookmark">HUNTER发行HUNTA系列HUNTA-337至HUNTA-352作品合集</a></h1>
+<div class="meta">
+<div class="thumb f_l">
+<a href="http://fulimomo.net/63117.html" title="HUNTER发行HUNTA系列HUNTA-337至HUNTA-352作品合集">
+<img class="sl_lazyimg" width="126" height="126" src="http://fulimomo.net/wp-content/plugins/simple-lazyload/blank_1x1.gif" file="http://zhizhubt.com/wp-content/uploads/2017/09/ERTE4537-1.png" title="HUNTER发行HUNTA系列HUNTA-337至HUNTA-352作品合集" alt="HUNTER发行HUNTA系列HUNTA-337至HUNTA-352作品合集" /><noscript><img width="126" height="126" src="http://zhizhubt.com/wp-content/uploads/2017/09/ERTE4537-1.png" title="HUNTER发行HUNTA系列HUNTA-337至HUNTA-352作品合集" alt="HUNTER发行HUNTA系列HUNTA-337至HUNTA-352作品合集" /></noscript>
+</a>
+</div>
+<p class="meta_info">
+<span class="mr10">时间: 2017-9-25</span>
+<span class="mr10">分类: <a href="http://fulimomo.net/zhainanfuli" rel="category tag">宅男福利</a></span>
+<span class="mr10">
+作者: 福利小编 </span>
+</p>
+<p class="meta_tag"><span>TAGS:</span> <a href="http://fulimomo.net/tag/hunta" rel="tag">HUNTA</a>, <a href="http://fulimomo.net/tag/hunta-xi-lie" rel="tag">HUNTA系列</a> </p>
+<div class="meta_content">
+HUNTER发行HUNTA系列HUNTA-337至HUNTA-352作品合集。HUNTER发行HUNTA系列HUNTA-337至HUNTA-352作品合集。HUNTER发行HUNTA系列HUNTA-337至HUNTA-352作品合集。HUNTER发行HUNTA系列HUNTA-337至HUNTA-352作品合集。
+请收藏“宅男福利吧”地址发布页:http://www.…… </div>
+<p><a class="more_link" href="http://fulimomo.net/63117.html"><em>Read more &gt;&gt;</em></a></p>
+<div class="clear"></div>
+</div>
+<div class="comments ption_a fs20"><em><a href="http://fulimomo.net/63117.html#comments" class="comments-link">2</a></em></div>
+</div>
+<div class="post ption_r" id="post-63104">
+<div class="circle">
+<div class="type"><span>25<small>Sep</small></span></div>
+</div>
+<h1 class="post_title fs24 f_w"><a href="http://fulimomo.net/63104.html" title="芽森滴/芽森しずく/SHIZU MEMORI 作品合集更新" rel="bookmark">芽森滴/芽森しずく/SHIZU MEMORI 作品合集更新</a></h1>
+<div class="meta">
+<div class="thumb f_l">
+<a href="http://fulimomo.net/63104.html" title="芽森滴/芽森しずく/SHIZU MEMORI 作品合集更新">
+<img class="sl_lazyimg" width="126" height="126" src="http://fulimomo.net/wp-content/plugins/simple-lazyload/blank_1x1.gif" file="http://zhizhubt.com/wp-content/uploads/2017/09/rthrth5556-3.png" title="芽森滴/芽森しずく/SHIZU MEMORI 作品合集更新" alt="芽森滴/芽森しずく/SHIZU MEMORI 作品合集更新" /><noscript><img width="126" height="126" src="http://zhizhubt.com/wp-content/uploads/2017/09/rthrth5556-3.png" title="芽森滴/芽森しずく/SHIZU MEMORI 作品合集更新" alt="芽森滴/芽森しずく/SHIZU MEMORI 作品合集更新" /></noscript>
+</a>
+</div>
+<p class="meta_info">
+<span class="mr10">时间: 2017-9-25</span>
+<span class="mr10">分类: <a href="http://fulimomo.net/zhainanfuli" rel="category tag">宅男福利</a></span>
+<span class="mr10">
+作者: 福利小编 </span>
+</p>
+<p class="meta_tag"><span>TAGS:</span> <a href="http://fulimomo.net/tag/ya-sen-di" rel="tag">芽森滴</a> </p>
+<div class="meta_content">
+芽森滴，日文名是芽森しずく，Shizu Memori，现龄23岁，出生于1992年8月6日，来自于宫城县，职业是艾薇女优，在2014年出道，应该已经退役了。2017年基本没有新作品。
+前期作品：芽森滴/芽森しずく/SHIZU MEMORI 出道至今作品合集 50GB
+请收藏“宅男福利吧”…… </div>
+<p><a class="more_link" href="http://fulimomo.net/63104.html"><em>Read more &gt;&gt;</em></a></p>
+<div class="clear"></div>
+</div>
+<div class="comments ption_a fs20"><em><a href="http://fulimomo.net/63104.html#comments" class="comments-link">1</a></em></div>
+</div>
+<div class="post ption_r" id="post-63083">
+<div class="circle">
+<div class="type"><span>25<small>Sep</small></span></div>
+</div>
+<h1 class="post_title fs24 f_w"><a href="http://fulimomo.net/63083.html" title="近期几大步兵公司新片17.09.16-09.25作品1080P合集更新" rel="bookmark">近期几大步兵公司新片17.09.16-09.25作品1080P合集更新</a></h1>
+<div class="meta">
+<div class="thumb f_l">
+<a href="http://fulimomo.net/63083.html" title="近期几大步兵公司新片17.09.16-09.25作品1080P合集更新">
+<img class="sl_lazyimg" width="126" height="126" src="http://fulimomo.net/wp-content/plugins/simple-lazyload/blank_1x1.gif" file="http://zhizhubt.com/wp-content/uploads/2017/09/reyer45-1.png" title="近期几大步兵公司新片17.09.16-09.25作品1080P合集更新" alt="近期几大步兵公司新片17.09.16-09.25作品1080P合集更新" /><noscript><img width="126" height="126" src="http://zhizhubt.com/wp-content/uploads/2017/09/reyer45-1.png" title="近期几大步兵公司新片17.09.16-09.25作品1080P合集更新" alt="近期几大步兵公司新片17.09.16-09.25作品1080P合集更新" /></noscript>
+</a>
+</div>
+<p class="meta_info">
+<span class="mr10">时间: 2017-9-25</span>
+<span class="mr10">分类: <a href="http://fulimomo.net/zhainanfuli" rel="category tag">宅男福利</a></span>
+<span class="mr10">
+作者: 福利小编 </span>
+</p>
+<p class="meta_tag"><span>TAGS:</span> <a href="http://fulimomo.net/tag/bu-bing" rel="tag">步兵</a> </p>
+<div class="meta_content">
+近期几大步兵公司新片17.09.15-09.25作品1080P合集更新.近期几大步兵公司新片17.09.15-09.25作品1080P合集更新.近期几大步兵公司新片17.09.15-09.25作品1080P合集更新.
+请收藏“宅男福利吧”地址发布页:http://www.emoneyspace.com/fulisoso
+近期步兵新…… </div>
+<p><a class="more_link" href="http://fulimomo.net/63083.html"><em>Read more &gt;&gt;</em></a></p>
+<div class="clear"></div>
+</div>
+<div class="comments ption_a fs20"><em><a href="http://fulimomo.net/63083.html#respond" class="comments-link">0</a></em></div>
+</div>
+<div class="post ption_r" id="post-63063">
+<div class="circle">
+<div class="type"><span>25<small>Sep</small></span></div>
+</div>
+<h1 class="post_title fs24 f_w"><a href="http://fulimomo.net/63063.html" title="AKNR公司监制-经典剧情FSET系列FSET-651至FSET-713合集" rel="bookmark">AKNR公司监制-经典剧情FSET系列FSET-651至FSET-713合集</a></h1>
+<div class="meta">
+<div class="thumb f_l">
+<a href="http://fulimomo.net/63063.html" title="AKNR公司监制-经典剧情FSET系列FSET-651至FSET-713合集">
+<img class="sl_lazyimg" width="126" height="126" src="http://fulimomo.net/wp-content/plugins/simple-lazyload/blank_1x1.gif" file="http://zhizhubt.com/wp-content/uploads/2017/09/TYUE4545-1.png" title="AKNR公司监制-经典剧情FSET系列FSET-651至FSET-713合集" alt="AKNR公司监制-经典剧情FSET系列FSET-651至FSET-713合集" /><noscript><img width="126" height="126" src="http://zhizhubt.com/wp-content/uploads/2017/09/TYUE4545-1.png" title="AKNR公司监制-经典剧情FSET系列FSET-651至FSET-713合集" alt="AKNR公司监制-经典剧情FSET系列FSET-651至FSET-713合集" /></noscript>
+</a>
+</div>
+<p class="meta_info">
+<span class="mr10">时间: 2017-9-25</span>
+<span class="mr10">分类: <a href="http://fulimomo.net/zhainanfuli" rel="category tag">宅男福利</a></span>
+<span class="mr10">
+作者: 福利小编 </span>
+</p>
+<p class="meta_tag"><span>TAGS:</span> <a href="http://fulimomo.net/tag/fset-xi-lie" rel="tag">fset系列</a>, <a href="http://fulimomo.net/tag/fset" rel="tag">FSET</a> </p>
+<div class="meta_content">
+剧情动作片是能提升逼格的,看懂剧情片,你会觉得艾薇无处不在,你的身边全是艾薇,你的生活中每个角落都充满了艾薇,或是疯狂的,激情的,或是快乐的,悲伤的….这些都融入到生活里了,本身也就是生活,因为我们离不开性,人之初,首先讲究的也是性,与生俱来,无可非议.A…… </div>
+<p><a class="more_link" href="http://fulimomo.net/63063.html"><em>Read more &gt;&gt;</em></a></p>
+<div class="clear"></div>
+</div>
+<div class="comments ption_a fs20"><em><a href="http://fulimomo.net/63063.html#comments" class="comments-link">2</a></em></div>
+</div>
+<div class="post ption_r" id="post-63052">
+<div class="circle">
+<div class="type"><span>25<small>Sep</small></span></div>
+</div>
+<h1 class="post_title fs24 f_w"><a href="http://fulimomo.net/63052.html" title="国产贵在真实-国产自拍原创视频作品合集17.09.25" rel="bookmark">国产贵在真实-国产自拍原创视频作品合集17.09.25</a></h1>
+<div class="meta">
+<div class="thumb f_l">
+<a href="http://fulimomo.net/63052.html" title="国产贵在真实-国产自拍原创视频作品合集17.09.25">
+<img class="sl_lazyimg" width="126" height="126" src="http://fulimomo.net/wp-content/plugins/simple-lazyload/blank_1x1.gif" file="http://zhizhubt.com/wp-content/uploads/2017/09/erter5686-1.png" title="国产贵在真实-国产自拍原创视频作品合集17.09.25" alt="国产贵在真实-国产自拍原创视频作品合集17.09.25" /><noscript><img width="126" height="126" src="http://zhizhubt.com/wp-content/uploads/2017/09/erter5686-1.png" title="国产贵在真实-国产自拍原创视频作品合集17.09.25" alt="国产贵在真实-国产自拍原创视频作品合集17.09.25" /></noscript>
+</a>
+</div>
+<p class="meta_info">
+<span class="mr10">时间: 2017-9-25</span>
+<span class="mr10">分类: <a href="http://fulimomo.net/zhainanfuli" rel="category tag">宅男福利</a></span>
+<span class="mr10">
+作者: 福利小编 </span>
+</p>
+<p class="meta_tag"><span>TAGS:</span> <a href="http://fulimomo.net/tag/guo-chan-zi-pai" rel="tag">国产自拍</a>, <a href="http://fulimomo.net/tag/guo-chan" rel="tag">国产</a> </p>
+<div class="meta_content">
+国产贵在真实-国产自拍原创视频作品合集17.09.25。国产贵在真实-国产自拍原创视频作品合集17.09.25国产贵在真实-国产自拍原创视频作品合集17.09.25。国产贵在真实-国产自拍原创视频作品合集17.09.25
+送上一些番号封面图，请欣赏！
+精选…… </div>
+<p><a class="more_link" href="http://fulimomo.net/63052.html"><em>Read more &gt;&gt;</em></a></p>
+<div class="clear"></div>
+</div>
+<div class="comments ption_a fs20"><em><a href="http://fulimomo.net/63052.html#comments" class="comments-link">2</a></em></div>
+</div>
+<div class="post ption_r" id="post-63043">
+<div class="circle">
+<div class="type"><span>25<small>Sep</small></span></div>
+</div>
+<h1 class="post_title fs24 f_w"><a href="http://fulimomo.net/63043.html" title="欧美女同-Allgirlmassage按摩系列2013年-2017年9月1080P高清合集" rel="bookmark">欧美女同-Allgirlmassage按摩系列2013年-2017年9月1080P高清合集</a></h1>
+<div class="meta">
+<div class="thumb f_l">
+<a href="http://fulimomo.net/63043.html" title="欧美女同-Allgirlmassage按摩系列2013年-2017年9月1080P高清合集">
+<img class="sl_lazyimg" width="126" height="126" src="http://fulimomo.net/wp-content/plugins/simple-lazyload/blank_1x1.gif" file="http://zhizhubt.com/wp-content/uploads/2017/09/AllGirlMassage.17.07.17.png" title="欧美女同-Allgirlmassage按摩系列2013年-2017年9月1080P高清合集" alt="欧美女同-Allgirlmassage按摩系列2013年-2017年9月1080P高清合集" /><noscript><img width="126" height="126" src="http://zhizhubt.com/wp-content/uploads/2017/09/AllGirlMassage.17.07.17.png" title="欧美女同-Allgirlmassage按摩系列2013年-2017年9月1080P高清合集" alt="欧美女同-Allgirlmassage按摩系列2013年-2017年9月1080P高清合集" /></noscript>
+</a>
+</div>
+<p class="meta_info">
+<span class="mr10">时间: 2017-9-25</span>
+<span class="mr10">分类: <a href="http://fulimomo.net/zhainanfuli" rel="category tag">宅男福利</a></span>
+<span class="mr10">
+作者: 福利小编 </span>
+</p>
+<p class="meta_tag"><span>TAGS:</span> <a href="http://fulimomo.net/tag/allgirlmassage" rel="tag">Allgirlmassage</a> </p>
+<div class="meta_content">
+女同-Allgirlmassage按摩系列2013年-2017年9月1080P高清合集。女同-Allgirlmassage按摩系列2013年-2017年9月1080P高清合集。女同-Allgirlmassage按摩系列2013年-2017年9月1080P高清合集。
+发布页可以知道网站变更的动态：https://www.emoneyspace.com/fuli…… </div>
+<p><a class="more_link" href="http://fulimomo.net/63043.html"><em>Read more &gt;&gt;</em></a></p>
+<div class="clear"></div>
+</div>
+<div class="comments ption_a fs20"><em><a href="http://fulimomo.net/63043.html#comments" class="comments-link">6</a></em></div>
+</div>
+<div class="page-nav ption_r" style="text-align:center;"><span class="pages mr20">第2页，共233页</span><a class="prev page-numbers" href="http://fulimomo.net/page/1">上一页</a>
+<a class='page-numbers' href='http://fulimomo.net/page/1'>1</a>
+<span class='page-numbers current'>2</span>
+<a class='page-numbers' href='http://fulimomo.net/page/3'>3</a>
+<a class='page-numbers' href='http://fulimomo.net/page/4'>4</a>
+<a class='page-numbers' href='http://fulimomo.net/page/5'>5</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='http://fulimomo.net/page/233'>233</a>
+<a class="next page-numbers" href="http://fulimomo.net/page/3">下一页</a></div>
+</div>
+<div id="sidebar" class="f_l ption_r">
+<div class="right_top_bg ption_a"></div>
+<div class="box">
+<h3 class="box_title ption_r mb20 f_l"><span>热门文章</span></h3>
+<div class="box_content" id="hot">
+<ul>
+<li> <a href="http://fulimomo.net/24239.html" title="教程:关于怎么下载宅男福利吧所有资源的几点说明？">
+教程:关于怎么下载宅男福利吧所有资源的几点说明？ </a> <small>
+2016.1.20 ,
+<a href="http://fulimomo.net/24239.html#comments" class="comments-link">188条评论</a> </small> </li>
+<li> <a href="http://fulimomo.net/57828.html" title="早上起来扔垃圾的人妻番号-步兵骑兵作品合集整理">
+早上起来扔垃圾的人妻番号-步兵骑兵作品合集整理 </a> <small>
+2017.7.06 ,
+<a href="http://fulimomo.net/57828.html#comments" class="comments-link">50条评论</a> </small> </li>
+<li> <a href="http://fulimomo.net/57380.html" title="国产贵在真实-国产自拍原创视频作品合集17.06.28">
+国产贵在真实-国产自拍原创视频作品合集17.06.28 </a> <small>
+2017.6.28 ,
+<a href="http://fulimomo.net/57380.html#comments" class="comments-link">42条评论</a> </small> </li>
+<li> <a href="http://fulimomo.net/57749.html" title="300-MIUM/300MIUM系列720P/1080P高清22部合集70GB第一期">
+300-MIUM/300MIUM系列720P/1080P高清22部合集70GB第一期 </a> <small>
+2017.7.04 ,
+<a href="http://fulimomo.net/57749.html#comments" class="comments-link">38条评论</a> </small> </li>
+<li> <a href="http://fulimomo.net/55439.html" title="唯美黑白配-BLACKEDVIDEO系列2015年1080P/720P高清合集[补充]">
+唯美黑白配-BLACKEDVIDEO系列2015年1080P/720P高清合集[补充] </a> <small>
+2017.6.03 ,
+<a href="http://fulimomo.net/55439.html#comments" class="comments-link">35条评论</a> </small> </li>
+<li> <a href="http://fulimomo.net/50008.html" title="步兵大礼-CARIBBEANCOM/加勒比公司系列2016年1080P步兵作品合集">
+步兵大礼-CARIBBEANCOM/加勒比公司系列2016年1080P步兵作品合集 </a> <small>
+2017.1.01 ,
+<a href="http://fulimomo.net/50008.html#comments" class="comments-link">35条评论</a> </small> </li>
+<li> <a href="http://fulimomo.net/59238.html" title="稀缺资源259-LUXU/259LUXU系列18部1080P高清无水印83GB合集第15期">
+稀缺资源259-LUXU/259LUXU系列18部1080P高清无水印83GB合集第15期 </a> <small>
+2017.7.28 ,
+<a href="http://fulimomo.net/59238.html#comments" class="comments-link">32条评论</a> </small> </li>
+<li> <a href="http://fulimomo.net/54037.html" title="稀缺福利-259LUXU系列58部高清作品合集第13期">
+稀缺福利-259LUXU系列58部高清作品合集第13期 </a> <small>
+2017.5.05 ,
+<a href="http://fulimomo.net/54037.html#comments" class="comments-link">29条评论</a> </small> </li>
+<li> <a href="http://fulimomo.net/56236.html" title="来自XXX-AV系列无修正步兵720P/1080P高清合集二">
+来自XXX-AV系列无修正步兵720P/1080P高清合集二 </a> <small>
+2017.6.15 ,
+<a href="http://fulimomo.net/56236.html#comments" class="comments-link">28条评论</a> </small> </li>
+<li> <a href="http://fulimomo.net/56042.html" title="来自XXX-AV系列无修正步兵720P/1080P高清合集一">
+来自XXX-AV系列无修正步兵720P/1080P高清合集一 </a> <small>
+2017.6.13 ,
+<a href="http://fulimomo.net/56042.html#comments" class="comments-link">28条评论</a> </small> </li>
+</ul>
+</div>
+</div>
+<div class="box">
+<h3 class="box_title ption_r mb20 f_l"><span>随机文章</span></h3>
+<div class="box_content" id="feat">
+<ul>
+<li> <a href="http://fulimomo.net/59467.html" rel="bookmark" title="宅男独享步兵-一本道/1PONDO公司2017年1-7月1080P高清作品合集">
+宅男独享步兵-一本道/1PONDO公司2017年1-7月1080P高清作品合集 </a> <small>
+2017.7.30 ,
+<a href="http://fulimomo.net/59467.html#comments" class="comments-link">13条评论</a> </small> </li>
+<li> <a href="http://fulimomo.net/59437.html" rel="bookmark" title="步兵大礼-CARIBBEANCOM/加勒比公司系列2017年1-7月1080P步兵作品合集">
+步兵大礼-CARIBBEANCOM/加勒比公司系列2017年1-7月1080P步兵作品合集 </a> <small>
+2017.7.30 ,
+<a href="http://fulimomo.net/59437.html#comments" class="comments-link">5条评论</a> </small> </li>
+<li> <a href="http://fulimomo.net/56462.html" rel="bookmark" title="欧美优优Lena Anderson 出道至今1080P高清作品合集">
+欧美优优Lena Anderson 出道至今1080P高清作品合集 </a> <small>
+2017.6.17 ,
+<a href="http://fulimomo.net/56462.html#comments" class="comments-link">3条评论</a> </small> </li>
+<li> <a href="http://fulimomo.net/29603.html" rel="bookmark" title="来自ORIENTAL DREAM公司的FETISH HOOD系列作品">
+来自ORIENTAL DREAM公司的FETISH HOOD系列作品 </a> <small>
+2015.11.29 ,
+<a href="http://fulimomo.net/29603.html#comments" class="comments-link">6条评论</a> </small> </li>
+<li> <a href="http://fulimomo.net/38896.html" rel="bookmark" title="步兵-来自一本道（1pondo）的極射系列作品系列">
+步兵-来自一本道（1pondo）的極射系列作品系列 </a> <small>
+2016.2.23 ,
+<a href="http://fulimomo.net/38896.html#respond" class="comments-link">0条评论</a> </small> </li>
+<li> <a href="http://fulimomo.net/28687.html" rel="bookmark" title="美熟女-FITCH公司的JUFD系列出番至最新JUFD-463大合集 1.28TB">
+美熟女-FITCH公司的JUFD系列出番至最新JUFD-463大合集 1.28TB </a> <small>
+2015.11.27 ,
+<a href="http://fulimomo.net/28687.html#respond" class="comments-link">0条评论</a> </small> </li>
+<li> <a href="http://fulimomo.net/28428.html" rel="bookmark" title="美女优优-立花美凉/立花美涼下马作品 CARIB-060915-895">
+美女优优-立花美凉/立花美涼下马作品 CARIB-060915-895 </a> <small>
+2015.11.27 ,
+<a href="http://fulimomo.net/28428.html#respond" class="comments-link">0条评论</a> </small> </li>
+<li> <a href="http://fulimomo.net/52388.html" rel="bookmark" title="欧美WOWPORN系列2016年3月-2017年3月1080P作品合集">
+欧美WOWPORN系列2016年3月-2017年3月1080P作品合集 </a> <small>
+2017.3.29 ,
+<a href="http://fulimomo.net/52388.html#comments" class="comments-link">1条评论</a> </small> </li>
+</ul>
+</div>
+</div>
+<div class="box">
+<h3 class="box_title ption_r mb20 f_l"><span>链接表</span></h3>
+<div class="box_content" id="link">
+<ul>
+</ul>
+</div>
+</div>
+<div id="float" class="box">
+<h3 class="box_title ption_r mb20 f_l"><span>功能</span></h3>
+<div class="box_content" id="log_register">
+<ul>
+<li><a target="_blank" title="我要投稿" href="http://fulimomo.net/contribute">投稿</a></li>
+<li><a href="http://fulimomo.net/wp-login.php?action=register">注册</a></li> <li><a href="http://fulimomo.net/wp-login.php">登录</a></li>
+<li><a href="http://fulimomo.net/feed" title="Syndicate this site using RSS 2.0">文章<abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="http://fulimomo.net/comments/feed" title="The latest comments to all posts in RSS">评论<abbr title="Really Simple Syndication">RSS</abbr></a></li>
+</ul>
+</div>
+<div class="footer">
+<p class="footer_wline">Powered by www.fulisoso.com<a href="http://www.fulisoso.com"><strong></strong></a>.</p>
+<p>Copyright &copy; 2012-2017 <a class="f_w" href="http://fulimomo.net/" title="-专门分享宅男福利的网站_分享你的福利吧">宅男福利吧</a></p>
+<p><a href="http://fulimomo.net/sitemap_baidu.xml" target="_blank">网站地图</a></p>
+<p>警告：本网站内容收集于全世界的互联网.</p>
+<p>网站在美国进行维护受美国法律保护！</p>
+<p>如果本站内容侵犯您的权益，请联系我们删除！</p>
+</div>
+</div>
+</div>
+<div class="clear"></div></div>
+<div id="backtotop"><a href="javascript:void(0);"><span>&uarr;</span>返回顶部</a></div>
+<script src="http://fulimomo.net/wp-content/themes/javin05/javin/js/base.js" type="text/javascript"></script>
+<script src="http://fulimomo.net/wp-content/themes/javin05/javin/js/load.js" type="text/javascript"></script>
+<script src="http://fulimomo.net/wp-content/themes/javin05/javin/js/jquery.nivo.slider.js" type="text/javascript"></script>
+<script src="http://fulimomo.net/wp-content/themes/javin05/javin/js/jquery.infinitescroll.js"></script>
+<script type="text/javascript">
+	$(window).load(function() {
+		$('#slider').nivoSlider({
+			controlNav:false,
+			effect:'sliceUpLeft',   
+			animSpeed:500,
+			captionOpacity:0.9,
+			directionNav:true,
+			controlNav:true,
+			pauseTime:3000,
+			directionNavHide: true,
+			pauseOnHover:true
+		});
+	});
+</script>
+<script type="text/javascript">
+(window.INFSCR_jQ ? jQuery.noConflict() : jQuery)(function($){
+  
+  $('#content').infinitescroll({
+    debug           : false,
+    nextSelector    : "#page_nav a",
+    loadingImg      : "http://fulimomo.net/wp-content/themes/javin05/javin/images/ajax-loader.gif",
+    loadingText     : "正在努力为你加载下一页..",
+    donetext        : "很好! 全部的内容加载完了.",
+    navSelector     : "#page_nav",
+    contentSelector : "#content",
+    itemSelector    : "#content > div.post"
+    },function(){ 
+ 
+    });
+});		
+</script>
+
+<div style="display:none"><script language="javascript" type="text/javascript" src="http://js.users.51.la/18634203.js"></script>
+<noscript><a href="http://www.51.la/?18634203" target="_blank"><img class="sl_lazyimg" alt="我要啦免费统计" src="http://fulimomo.net/wp-content/plugins/simple-lazyload/blank_250x250.gif" file="http://img.users.51.la/18634203.asp" style="border:none" /><noscript><img alt="我要啦免费统计" src="http://img.users.51.la/18634203.asp" style="border:none" /></noscript></a></noscript></div>
+
+<script type="text/javascript">
+				SetCookie( 'dx_current_page', window.location.href );
+				function SetCookie(name,value)
+				{  
+					var Days = 1;
+					var exp  = new Date();
+					exp.setTime(exp.getTime() + Days*24*60*60*1000);  
+					document.cookie = name + "="+ escape (value) + ";path=/"; 
+				} 
+			</script>
+
+<style type="text/css">
+.sl_lazyimg{
+opacity:0.1;filter:alpha(opacity=10);
+background:url(http://fulimomo.net/wp-content/plugins/simple-lazyload/loading2.gif) no-repeat center center;
+}
+</style>
+<noscript>
+<style type="text/css">
+.sl_lazyimg{display:none;}
+</style>
+</noscript>
+<script type="text/javascript">
+Array.prototype.S = String.fromCharCode(2);
+Array.prototype.in_array = function(e) {
+	var r = new RegExp(this.S+e+this.S);
+	return (r.test(this.S+this.join(this.S)+this.S));
+};
+
+Array.prototype.pull=function(content){
+	for(var i=0,n=0;i<this.length;i++){
+		if(this[i]!=content){
+			this[n++]=this[i];
+		}
+	}
+	this.length-=1;
+};
+
+jQuery(function($) {
+window._lazyimgs = $("img.sl_lazyimg");
+if (_lazyimgs.length == 0) {
+	return;
+}
+var toload_inds = [];
+var loaded_inds = [];
+var failed_inds = [];
+var failed_count = {};
+var lazyload = function() {
+	if (loaded_inds.length==_lazyimgs.length) {
+		return;
+	}
+	var threshold = 200;
+	_lazyimgs.each(function(i){
+		_self = $(this);
+		if ( _self.attr("lazyloadpass")===undefined && _self.attr("file")
+			&& ( !_self.attr("src") || (_self.attr("src") && _self.attr("file")!=_self.attr("src")) )
+			) {
+			if( (_self.offset().top) < ($(window).height()+$(document).scrollTop()+threshold)
+				&& (_self.offset().left) < ($(window).width()+$(document).scrollLeft()+threshold)
+				&& (_self.offset().top) > ($(document).scrollTop()-threshold)
+				&& (_self.offset().left) > ($(document).scrollLeft()-threshold)
+				) {
+				if (toload_inds.in_array(i)) {
+					return;
+				}
+				toload_inds.push(i);
+				if (failed_count["count"+i] === undefined) {
+					failed_count["count"+i] = 0;
+				}
+				_self.css("opacity",1);
+				$("<img ind=\""+i+"\"/>").bind("load", function(){
+					var ind = $(this).attr("ind");
+					if (loaded_inds.in_array(ind)) {
+						return;
+					}
+					loaded_inds.push(ind);
+					var _img = _lazyimgs.eq(ind);
+					_img.attr("src",_img.attr("file")).css("background-image","none").attr("lazyloadpass","1");
+				}).bind("error", function(){
+					var ind = $(this).attr("ind");
+					if (!failed_inds.in_array(ind)) {
+						failed_inds.push(ind);
+					}
+					failed_count["count"+ind]++;
+					if (failed_count["count"+ind] < 2) {
+						toload_inds.pull(ind);
+					}
+				}).attr("src", _self.attr("file"));
+			}
+		}
+	});
+}
+lazyload();
+var ins;
+$(window).scroll(function(){clearTimeout(ins);ins=setTimeout(lazyload,100);});
+$(window).resize(function(){clearTimeout(ins);ins=setTimeout(lazyload,100);});
+});
+
+jQuery(function($) {
+var calc_image_height = function(_img) {
+	var width = _img.attr("width");
+	var height = _img.attr("height");
+	if ( !(width && height && width>=300) ) return;
+	var now_width = _img.width();
+	var now_height = parseInt(height * (now_width/width));
+	_img.css("height", now_height);
+}
+var fix_images_height = function() {
+	_lazyimgs.each(function() {
+		calc_image_height($(this));
+	});
+}
+fix_images_height();
+$(window).resize(fix_images_height);
+});
+</script>
+
+<script type='text/javascript' src='http://fulimomo.net/wp-includes/js/wp-embed.min.js?ver=4.4'></script>
+</body>
+</html>
